@@ -1,0 +1,26 @@
+# 💫 About Me:
+¡Hola a todos!<br><br>Soy un Ingeniero Mecatrónico que ha encontrado una pasión inesperada en el mundo de la programación. Mi viaje hacia este campo comenzó ya avanzado en mi carrera, pero desde entonces, no he mirado hacia atrás. Creo firmemente en el lema de "mejor tarde que nunca".<br><br>Aunque al inicio no poseía dominio de ningún lenguaje de programación, he adquirido los conocimientos básicos en C, C++, y Java. Más recientemente, me he sumergido en el mundo de Python, Git y Github, profundizando mis habilidades a través de cursos y proyectos personales. A pesar de no dominar ningún lenguaje específico, confío en mi capacidad para comprender la lógica subyacente y poder aplicarla a cualquiera de ellos.<br><br>Soy una persona ávida de conocimiento y disfruto aplicar lo que aprendo en mi día a día. La mejora personal y la búsqueda constante de perfeccionamiento son principios que guían mis acciones.<br><br>Consciente de mis limitaciones como futuro programador, estoy comprometido a enfrentarlas de frente y superarlas. Aunque aún no me he decidido por una especialización específica, ya sea como Back-end, Front-end, o incluso como un Fullstack, estoy seguro de que mi determinación y un enfoque disciplinado me llevarán a convertirme en un excelente desarrollador. Creo firmemente que el camino hacia el éxito está pavimentado con perseverancia y un buen sistema de aprendizaje.<br><br>¡Gracias por visitar mi perfil y ser parte de mi viaje de crecimiento y aprendizaje en el mundo de la programación!
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LeonardoGalindo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Leogaltre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Leogaltre) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23275511/leogaltre) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Leogaltre1&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Leogaltre1&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leogaltre&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Leogaltre1&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+La calidad de tu vida depende de la calidad de tus pensamientos
+Marco Aurelio
+
+---
+[![](https://visitcount.itsvg.in/api?id=Leogaltre&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
